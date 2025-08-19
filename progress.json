@@ -115,34 +115,5 @@
       "Great work creating a clone of a fork from Github!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "fetch-and-pull",
-    "started_at": 1755574676.167849,
-    "completed_at": 1755574676.928953,
-    "comments": [
-      "You did not pull Alice's changes to your own main branch!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "fetch-and-pull",
-    "started_at": 1755574733.608956,
-    "completed_at": 1755574733.790057,
-    "comments": [
-      "You should not have pulled Bob's changes to your own main branch!",
-      "Reset the exercise using 'gitmastery progress reset' to try again!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "fetch-and-pull",
-    "started_at": 1755574771.810947,
-    "completed_at": 1755574772.067298,
-    "comments": [
-      "You should not have pulled Bob's changes to your own main branch!",
-      "Reset the exercise using 'gitmastery progress reset' to try again!"
-    ],
-    "status": "Incomplete"
   }
 ]
